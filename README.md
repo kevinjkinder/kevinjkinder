@@ -6,10 +6,10 @@
   <a href="https://kevinkinder.dev" target="_blank">
     <img src="https://img.shields.io/badge/&#128279; Visit My Portfolio-black" />  
   </a>
-  <a href="mailto:kevinjkinder@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/gmail-kevinjkinder@gmail.com-white?logo=gmail" />  
+  <a href="mailto:kevinkinderknecht@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/gmail-kevinkinderknecht@gmail.com-white?logo=gmail" />  
   </a>&nbsp;
-  <a href="https://www.linkedin.com/in/kevin-kinderknecht-559052201/" target="_blank">
+  <a href="https://www.linkedin.com/in/kevinkinderknecht/" target="_blank">
     <img src="https://img.shields.io/badge/Kevin Kinderknecht-white?logo=linkedin&labelColor=blue" />  
   </a>
   &nbsp;
